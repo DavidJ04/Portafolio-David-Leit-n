@@ -1,5 +1,3 @@
-//Haz tú validación en javascript acá
-
 const nombreEmailAsunto = document.querySelectorAll('.formcontato__input');
 const mensaje = document.querySelector('.formcontato__textarea');
 const botonSubmit = document.querySelector('.formcontato__botao');
